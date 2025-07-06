@@ -21,7 +21,7 @@
 | Next.js 14         | API Routes         | Telegram Bot API   |
 | TypeScript         | Node.js 18+        | Fetch API          |
 | React 18           | Server Actions     |                    |
-| CSS Modules        |                    |                    |
+| SCSS Modules        |                    |                    |
 
 ---
 
@@ -53,7 +53,7 @@
 - **Упрощение процессов**: Отказ от телефонных записей  
 - **Кросс-платформенность**: Работает на любом устройстве
   
-*Чистый адаптивный интерфейс на CSS Modules*
+*Чистый адаптивный интерфейс на SCSS Modules*
 
 ---
 
